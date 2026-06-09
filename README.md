@@ -1,3 +1,4 @@
+```markdown
 # Hi there 👋, I'm Javagar R
 
 ### 🚀 Aspiring Full Stack Developer | AWS Certified Cloud Practitioner
@@ -7,17 +8,18 @@
 
 I am passionate about building responsive and scalable web applications using **React.js, Spring Boot, and PostgreSQL**. I enjoy transforming ideas into practical software solutions and have hands-on experience developing cloud-native applications using AWS services.
 
-- 🔭 Currently building full-stack applications
+- 🔭 Currently building full-stack applications using React.js and Spring Boot
 - 🌱 Preparing for **AWS Certified Solutions Architect – Associate**
 - ☁️ AWS Certified Cloud Practitioner
 - 🧩 Familiar with **Data Structure implementation and basic algorithms using Java**
 - 💡 Interested in Full-Stack Development, Cloud Computing, and AI integration
+- ⚡ Fun fact: I know Japanese
 
 ---
 
 ## 🌐 Portfolio
 
-🔗 **Portfolio:** [javagar-dev-hub.lovable.app](https://javagar-dev-hub.lovable.app)
+🔗 **Portfolio:** https://javagar-dev-hub.lovable.app
 
 ---
 
@@ -84,6 +86,11 @@ A cloud-native attendance management system that automates attendance tracking u
 ### Cloud Technologies
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![Amazon SNS](https://img.shields.io/badge/Amazon_SNS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon Rekognition](https://img.shields.io/badge/Amazon_Rekognition-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ### Tools & IDEs
 
@@ -95,6 +102,31 @@ A cloud-native attendance management system that automates attendance tracking u
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![AWS Console](https://img.shields.io/badge/AWS_Console-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javagar154&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javagar154&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+[![Javagar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=javagar154&bg_color=293036&color=fbeaea&line=0bf47c&point=e30d43&area=true&hide_border=true)](https://github.com/javagar154)
+
+---
+
+## 🧩 LeetCode Progress
+
+<p align="center">
+  <a href="https://leetcode.com/u/JavagarR/">
+    <img src="https://leetcard.jacoblin.cool/JavagarR?theme=dark&font=Tiro%20Devanagari%20Sanskrit&ext=contest" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
@@ -127,7 +159,8 @@ https://drive.google.com/file/d/1BBoKNqf_FReNpjyaNPB3Ako5xeq6F8kJ/view?usp=shari
 
 ## 📫 Connect With Me
 
-📧 **Email:** javagarr85@gmail.com
+📧 **Email:**  
+javagarr85@gmail.com
 
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/javagar85
@@ -143,3 +176,4 @@ https://javagar-dev-hub.lovable.app
 <p align="center">
   <i>"Code is not just what I write; it's how I solve problems and create meaningful solutions."</i> 🚀
 </p>
+```
