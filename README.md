@@ -1,8 +1,11 @@
-```markdown
+
 # Hi there 👋, I'm Javagar R
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Javagar%20R&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AWS%20Certified%20Cloud%20Practitioner&descAlignY=60&animation=fadeIn"/>
 
-### 🚀 Aspiring Full Stack Developer | AWS Certified Cloud Practitioner
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=4000&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Building+Responsive+Web+Applications;Java+%7C+Spring+Boot+%7C+React.js;AWS+Cloud+Enthusiast;Always+Learning+and+Growing" />
+</p>
+     
 🎓 **Bachelor of Engineering in Computer Science**  
 📍 Coimbatore, Tamil Nadu, India  
 
@@ -13,7 +16,8 @@ I am passionate about building responsive and scalable web applications using **
 - ☁️ AWS Certified Cloud Practitioner
 - 🧩 Familiar with **Data Structure implementation and basic algorithms using Java**
 - 💡 Interested in Full-Stack Development, Cloud Computing, and AI integration
-- ⚡ Fun fact: I know Japanese
+
+
 
 ---
 
@@ -86,11 +90,6 @@ A cloud-native attendance management system that automates attendance tracking u
 ### Cloud Technologies
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
-![Amazon SNS](https://img.shields.io/badge/Amazon_SNS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![Amazon Rekognition](https://img.shields.io/badge/Amazon_Rekognition-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ### Tools & IDEs
 
@@ -102,15 +101,6 @@ A cloud-native attendance management system that automates attendance tracking u
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![AWS Console](https://img.shields.io/badge/AWS_Console-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javagar154&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javagar154&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 ---
 
@@ -176,4 +166,4 @@ https://javagar-dev-hub.lovable.app
 <p align="center">
   <i>"Code is not just what I write; it's how I solve problems and create meaningful solutions."</i> 🚀
 </p>
-```
+
