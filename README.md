@@ -1,9 +1,10 @@
 
 # Hi there 👋, I'm Javagar R
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Javagar%20R&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AWS%20Certified%20Cloud%20Practitioner&descAlignY=60&animation=fadeIn"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2ECC71&text=Javagar%20R&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AWS%20Cloud%20Practitioner&descAlignY=60&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=4000&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Building+Responsive+Web+Applications;Java+%7C+Spring+Boot+%7C+React.js;AWS+Cloud+Enthusiast;Always+Learning+and+Growing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=4000&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Java+%7C+Spring+Boot+%7C+React.js;Cloud+Native+Development;Always+Learning+and+Growing" />
 </p>
      
 🎓 **Bachelor of Engineering in Computer Science**  
